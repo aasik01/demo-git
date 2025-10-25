@@ -1,2 +1,0 @@
-this is file name text2.txt sentence add
-commit msg very importan so you create file then include commit msg some sootaple msg you are create 
