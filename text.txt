@@ -1,1 +1,5 @@
 create text.txt file
+first stup
+  - file create / insert - file add- file commit - file push 
+  this stup befor uploding yor file to github
+  
