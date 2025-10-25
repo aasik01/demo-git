@@ -2,4 +2,4 @@ create text.txt file
 first stup
   - file create / insert - file add- file commit - file push 
   this stup befor uploding yor file to github
-  
+  modified sentence - used the git pull github any motification after save the local disck / pull to local disk 
